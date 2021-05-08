@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.footer{
+  top: 100vh;
+  position: relative;
+  width: 100%;
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #d0d4da;
+  border-top: .05rem solid #e5e5e5;
+  margin-top: 40px;
+}
+
+.myBtn {
+  transition-duration: 0.2s;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 122px;
+  height: 37px;
+  font-size: 1rem;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: .25rem;
+  border: 1px solid green;
+  color: green;
+  background-color: transparent;
+  outline: none;
+}
+
+.myBtn:hover{
+  color: white;
+  background-color: green;
+}
+
+.myBtn-2 {
+  transition-duration: 0.2s;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 122px;
+  height: 37px;
+  font-size: 1rem;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: .25rem;
+  border: 1px solid red;
+  color: red;
+  background-color: transparent;
+  outline: none;
+}
+
+.myBtn-2:hover{
+  color: white;
+  background-color: red;
+}
+
+
+
+
+.delbtn {
+  transition-duration: 0.2s;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 97px;
+  height: 31px;
+  font-size: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  border: 1px solid red;
+  color: red;
+  background-color: transparent;
+  outline: none;
+}
+
+.delbtn:hover{
+  color: white;
+  background-color: red;
+}
+
+
